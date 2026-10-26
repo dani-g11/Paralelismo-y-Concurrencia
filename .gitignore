@@ -1,0 +1,21 @@
+# Artefactos de compilación
+*.o
+eafitOS
+sys_shell
+sys_shell2
+
+# Guía interna del equipo (va en el PDF, no al repositorio)
+INSTRUCCIONES_EDITOR.md
+
+# Archivos de prueba generados al editar
+
+# Archivo placeholder sin uso
+# Archivo placeholder sin uso
+algo
+
+# Bloque que añadirá el compañero (no se sube)
+PARTE_COMPANERO.txt
+# Salidas de Huffman y de test_huffman.sh
+pruebas_huffman/
+*.huf
+*.desc
