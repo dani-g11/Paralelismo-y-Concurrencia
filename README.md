@@ -71,7 +71,7 @@ Los comandos `p`, `s`, `h` y `q` siguen disponibles.
 
 La descompresión es secuencial porque los códigos tienen longitud variable.
 Al descomprimir se valida la cabecera: número mágico, que no haya frecuencias
-en 0 ni símbolos repetidos, y que la suma de frecuencias sea igual al tamaño
+en 0 ni símbolos repetidos y que la suma de frecuencias sea igual al tamaño
 original.
 
 ## Archivos principales
